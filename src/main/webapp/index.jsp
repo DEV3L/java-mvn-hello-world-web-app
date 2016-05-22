@@ -9,7 +9,7 @@
   <div className="jumbotron" style="background-color:white">
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h2 className="text-center">Hello World! DEV3L - v2.0</h2>
+      <h2 className="text-center">Hello World! DEV3L - v2.1</h2>
       <p>Now with Travis!</p>
   </div>
 </body>
