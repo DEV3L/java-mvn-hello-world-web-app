@@ -9,8 +9,8 @@
   <div class="jumbotron" style="background-color:white">
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h2 class="text-center">Hello World!- Hello Sir  Azure Devops Pipeline............</h2>
-      <p class="text-center">Welcome to StandardLife - CI CD Pipeline Demo!</p>
+      <h2 class="text-center">Hello World!- Azure Devops Pipeline............</h2>
+      <p class="text-center">Welcome to StandardLife - CI CD Pipeline Demo to Arun</p>
   </div>
 </body>
 </html>
