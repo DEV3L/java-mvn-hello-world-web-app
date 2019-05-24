@@ -10,7 +10,7 @@
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello World!- Azure Devops Pipeline............</h2>
-      <p class="text-center">Welcome to StandardLife - CI CD Pipeline Demo to Arun</p>
+      <p class="text-center">Welcome to StandardLife - CI CD Pipeline Demo to SL</p>
   </div>
 </body>
 </html>
