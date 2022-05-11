@@ -19,6 +19,7 @@ https://softwaredev3loper.wordpress.com/2016/02/17/from-zero-to-continuous-deliv
 * Import 'mvn-hello-world-web-app' as existing project into Eclipse 
 * Use maven to run integration tests and install
  * mvn clean install
-am adaugat asta pt pull request
-am adaugat asta pt pull request
-am adaugat asta pt pull request
+am adaugat asta pt pull request1
+am adaugat asta pt pull request2
+am adaugat asta pt pull request3
+am adaugat asta pt pull request4
